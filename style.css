@@ -2,12 +2,7 @@
             font-family: Montserrat-FF, Arial, Tahoma, sans-serif;
             background-color: gray;
         }
-
-        .container {
-           width: 100%;
-           min-height: 200px;
                 
-        }
         header {
             float: left;
             background-color: #cfcf8f;
